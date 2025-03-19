@@ -1,7 +1,8 @@
-streamlit==1.17.0
-pywhatkit==5.4
-pyautogui==0.9.53
-pillow==8.4.0
+streamlit
+pywhatkit
+pyautogui
+pillow
+datetime
 
 
 
