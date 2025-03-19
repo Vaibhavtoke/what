@@ -1,8 +1,7 @@
-streamlit
-pywhatkit
-pyautogui
-mouseinfo
-pillow
-datetime
+streamlit==1.17.0
+pywhatkit==5.4
+pyautogui==0.9.53
+pillow==8.4.0
+
 
 
