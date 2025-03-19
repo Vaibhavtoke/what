@@ -1,4 +1,8 @@
 streamlit
 pywhatkit
 pyautogui
+mouseinfo
+pillow
+datetime
+
 
